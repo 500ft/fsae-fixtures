@@ -8,11 +8,17 @@ Designed and revised three FDM-printed fit-up fixtures; prepared 32 waterjet-cut
 
 Constrained tube and tab geometry for cutting, fit-up and TIG tack preparation. Checked support geometry and assembly sequence against CAD before welding.
 
+My active Motorsports role includes designing parts for machining and testing, considering manufacturing constraints, and using team-collected data and calculations to make design recommendations. This ongoing role is separate from the retained fabrication photographs and the unbuilt rocker study below.
+
 ## Shop work
 
 The fixtures constrained tube and tab geometry during cutting, fit-up and TIG tack preparation. Tab preparation and alignment checks supported the team’s suspension and steering fabrication.
 
 The photographs show the shop operations and tab sheet. Photographs of the printed fixtures will be added when available.
+
+## Later rocker design study
+
+The [engineering report](https://www.mergenulziibayar.com/downloads/reports/fsae-fixtures.pdf) connects this fabrication record with a later, unbuilt split-rocker concept and its retained 75-case computational comparison. The rocker results are assumed-load static body screens, not vehicle tests or qualification of the bearings, joints, contact or fatigue. A stopped bearing-reaction compatibility check remains unresolved; neither bearing capacity nor completed project closure is claimed. Recent CAD automation and analysis were AI-assisted under my direction and review.
 
 ## Fabrication photographs
 
